@@ -19,6 +19,7 @@
 ## Cloud Computing
 - [How Google does Machine Learning](https://www.coursera.org/account/accomplishments/verify/9L9EG9M3GLGK) [Coursera][Google]
 - [Managing Machine Learning Projects with Google Cloud](https://www.coursera.org/account/accomplishments/verify/DD8JHESZWAUP) [Coursera][Google]
+- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/6WKN7S653Y56) [Course][AWS]
 - [Fundamental course in the AWS Machine Learning](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/0f56ace9-13f7-4cff-96bb-6d97f549035d.pdf?utm_campaign=sch_600_auto_ndxxx_aws-ml-completed_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_auto_ndxxx_aws-ml-complet) [Udacity][AWS]
 
 
