@@ -10,12 +10,12 @@
 - [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/WWP2MT3G37Y8) [Coursera][IBM]
 - [Introduction to Probability and Data with R](https://www.coursera.org/account/accomplishments/verify/RUR5BQSA7PNJ) [Coursera][Duke University]
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RMJAND83VM2S) [Coursera][University of California, Davis]
-- [Pandas](https://www.kaggle.com/learn/certification/boedybios/pandas)[Kaggle]
+- [Pandas](https://www.kaggle.com/learn/certification/boedybios/pandas) [Kaggle]
 - [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/verify/YHUL7R7YU2Z7) [Coursera][Coursera Project Network]
 
 
 ## Machine Learning
-- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/boedybios/intro-to-machine-learning)[Kaggle]
+- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/boedybios/intro-to-machine-learning) [Kaggle]
 
 
 ## Data Engineering
