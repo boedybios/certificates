@@ -39,4 +39,5 @@
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/K47K4YFWHKF6) [Coursera][University of Michigan]
 - [Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/verify/3GR38UHTK6BK) [Coursera][University of Michigan]
 - [Python Classes and Inheritance](https://www.coursera.org/account/accomplishments/verify/YQ3UZTVWZ9US) [Coursera][University of Michigan]
+- [Python](https://www.kaggle.com/learn/certification/boedybios/python) [Kaggle]
 
