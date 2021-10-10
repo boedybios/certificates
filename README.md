@@ -11,6 +11,7 @@
 - [Introduction to Probability and Data with R](https://www.coursera.org/account/accomplishments/verify/RUR5BQSA7PNJ) [Coursera][Duke University]
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RMJAND83VM2S) [Coursera][University of California, Davis]
 - [Pandas](https://www.kaggle.com/learn/certification/boedybios/pandas) [Kaggle]
+- [Tidy Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/44e3771c3c2b85feadd0985e0cfe4c3fa4a2df31) [Datacamp]
 - [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/verify/YHUL7R7YU2Z7) [Coursera][Coursera Project Network]
 
 
