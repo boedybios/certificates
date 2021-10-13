@@ -24,6 +24,7 @@
 
 
 ## Data Engineering
+- [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/743285d310f5b7bb6eb9bc2f837e75fc933f27ec) [Datacamp]
 - [Data Engineering for Everyone](https://www.datacamp.com/statement-of-accomplishment/course/b2b27ae7ba5ce4ea89c2bcacf2d898e1b985f1d7) [Datacamp]
 
 
