@@ -10,6 +10,7 @@
 - [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/WWP2MT3G37Y8) [Coursera][IBM]
 - [Introduction to Probability and Data with R](https://www.coursera.org/account/accomplishments/verify/RUR5BQSA7PNJ) [Coursera][Duke University]
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/RMJAND83VM2S) [Coursera][University of California, Davis]
+- [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/account/accomplishments/verify/FJ8DKTKNTGSW) [Coursera][University of California, Davis]
 - [Pandas](https://www.kaggle.com/learn/certification/boedybios/pandas) [Kaggle]
 - [Tidy Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/44e3771c3c2b85feadd0985e0cfe4c3fa4a2df31) [Datacamp]
 - [COVID19 Data Analysis Using Python](https://www.coursera.org/account/accomplishments/verify/YHUL7R7YU2Z7) [Coursera][Coursera Project Network]
@@ -38,12 +39,12 @@
 ## Software Engineering
 - [Open Source Software Development Methods](https://www.coursera.org/account/accomplishments/verify/HTRRGMSPYNHK) [Coursera][The Linux Foundation]
 - [Version Control with Git](https://www.coursera.org/account/accomplishments/verify/TLPXDE2428A9) [Coursera][Atlassian]
-- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/d3a647b19e00) [HackerRank]
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/FQSA6VHTBHRM) [Coursera][University of Michigan]
+- [Python](https://www.kaggle.com/learn/certification/boedybios/python) [Kaggle]
 - [Python Basics](https://www.coursera.org/account/accomplishments/verify/RUM6FA6V87VN) [Coursera][University of Michigan]
 - [Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/verify/6KTV6T456U8F) [Coursera][University of Michigan]
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/K47K4YFWHKF6) [Coursera][University of Michigan]
 - [Data Collection and Processing with Python](https://www.coursera.org/account/accomplishments/verify/3GR38UHTK6BK) [Coursera][University of Michigan]
 - [Python Classes and Inheritance](https://www.coursera.org/account/accomplishments/verify/YQ3UZTVWZ9US) [Coursera][University of Michigan]
-- [Python](https://www.kaggle.com/learn/certification/boedybios/python) [Kaggle]
+- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/d3a647b19e00) [HackerRank]
 
