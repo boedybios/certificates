@@ -30,6 +30,7 @@
 
 
 ## Cloud Computing
+- [AWS Academy Accredited Educator](https://www.credly.com/badges/4149931e-895c-465a-b189-d37988fadc25) [AWS Academy]
 - [AWS Academy Cloud Foundations](https://www.credly.com/badges/b41406bc-ac24-406f-8aa3-a7ffd78a801f) [AWS Academy]
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0b0f73b4-b697-46db-a84f-05e50f86f68f) [AWS - Amazon Web Services]
 - [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/6WKN7S653Y56) [Course][AWS]
