@@ -43,6 +43,7 @@
 - [Version Control with Git](https://www.coursera.org/account/accomplishments/verify/TLPXDE2428A9) [Coursera][Atlassian]
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/FQSA6VHTBHRM) [Coursera][University of Michigan]
 - [Python](https://www.kaggle.com/learn/certification/boedybios/python) [Kaggle]
+- [Introduction to Python](https://learn.365datascience.com/certificates/CC-5624CA8F68/) [365 Data Science]
 - [Python Basics](https://www.coursera.org/account/accomplishments/verify/RUM6FA6V87VN) [Coursera][University of Michigan]
 - [Python Functions, Files, and Dictionaries](https://www.coursera.org/account/accomplishments/verify/6KTV6T456U8F) [Coursera][University of Michigan]
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/K47K4YFWHKF6) [Coursera][University of Michigan]
