@@ -41,6 +41,7 @@
 ## Software Engineering
 - [Open Source Software Development Methods](https://www.coursera.org/account/accomplishments/verify/HTRRGMSPYNHK) [Coursera][The Linux Foundation]
 - [Version Control with Git](https://www.coursera.org/account/accomplishments/verify/TLPXDE2428A9) [Coursera][Atlassian]
+- [Git and GitHub](https://learn.365datascience.com/certificates/CC-433B9C11AF/) [365 Data Science]
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/FQSA6VHTBHRM) [Coursera][University of Michigan]
 - [Python](https://www.kaggle.com/learn/certification/boedybios/python) [Kaggle]
 - [Introduction to Python](https://learn.365datascience.com/certificates/CC-5624CA8F68/) [365 Data Science]
