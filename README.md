@@ -3,6 +3,7 @@
 
 ## Data Science
 - [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/2QM9N7JWRY8U) [Coursera][IBM]
+- [AI for Everyone](https://www.coursera.org/account/accomplishments/verify/E43U5URVDFKP) [Coursera][DeepLearning.AI]
 - [A Crash Course in Data Science](https://www.coursera.org/account/accomplishments/verify/DGFRPDWTGR2K) [Coursera][Johns Hopkins University]
 - [Introduction to Data and Data Science](https://learn.365datascience.com/certificates/CC-E3CCA469B5/) [365 Data Science]
 - [Building a Data Science Team](https://www.coursera.org/account/accomplishments/verify/MKPKLUM4CN6L) [Coursera][Johns Hopkins University]
